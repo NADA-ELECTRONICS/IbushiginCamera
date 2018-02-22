@@ -16,13 +16,13 @@ GR-LYCHEE (D13) - シャッターSW
 GR-LYCHEE (D1)  - (RxD) AS-289R2 Thermal Printer Shield  
 
 # 主な処理
-シャッターSWが押されるとカメラで取得したグレースケール画像cv::Mat dstにコピー
-グレースケール画像サイズをcv:resizeで384xautoに変換
-cv::imwriteでxxx_gray.bmpをFlashAirに保存
-cv::Mat dstをディザリング処理で2値化
-cv::flipで反転(デモが反転印字の為)
-cv::imwriteでxxx_color2.bmpをFlashAirに保存
-FlashAirのxxx_color2.bmpファイルを読み出しながらAS-289R2 Thermal Printerにuart送信
+シャッターSWが押されるとカメラで取得したグレースケール画像cv::Mat dstにコピー  
+グレースケール画像サイズをcv:resizeで384xautoに変換  
+cv::imwriteでxxx_gray.bmpをFlashAirに保存  
+cv::Mat dstをディザリング処理で2値化  
+cv::flipで反転(デモが反転印字の為)  
+cv::imwriteでxxx_color2.bmpをFlashAirに保存  
+FlashAirのxxx_color2.bmpファイルを読み出しながらAS-289R2 Thermal Printerにuart送信  
 
 # 今後
 FlashAirをSD-Cardとしか利用していないので、ゴニョゴニュしてみたいと思います。
