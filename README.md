@@ -13,7 +13,7 @@ IbushiginCamera for GR-LYCHEE - OpenCV
 
 # 接続
 GR-LYCHEE (D13) - シャッターSW  
-GR-LYCHEE (D1)  - (RxD) AS-289R2  
+GR-LYCHEE (D1)  - (RxD) AS-289R2 Thermal Printer Shield  
 
 # 主な処理
 シャッターSWが押されるとカメラで取得したグレースケール画像cv::Mat dstにコピー
