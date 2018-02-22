@@ -11,6 +11,10 @@ IbushiginCamera for GR-LYCHEE - OpenCV
 
 ![IbushiginCamera](https://github.com/NADA-ELECTRONICS/IbushiginCamera/blob/master/photo.jpg)
 
+# Mbed CLI & GR-LYCHEE OpenCV Sample
+[GR-Boards_OpenCV_sample](https://github.com/d-kato/GR-Boards_OpenCV_sample)  
+[GR-LYCHEE用オフライン開発環境の手順](https://os.mbed.com/users/dkato/notebook/offline-development-lychee-langja/)  
+
 # 接続
 GR-LYCHEE (D13) - シャッターSW  
 GR-LYCHEE (D1)  - (RxD) AS-289R2 Thermal Printer Shield  
