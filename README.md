@@ -26,7 +26,7 @@ cv::imwriteでxxx_gray.bmpをFlashAirに保存
 cv::Mat dstをディザリング処理で2値化  
 cv::flipで反転(デモが反転印字の為)  
 cv::imwriteでxxx_color2.bmpをFlashAirに保存  
-FlashAirのxxx_color2.bmpファイルを読み出しながらAS-289R2 Thermal Printerにuart送信  
+FlashAirのxxx_color2.bmpファイルを読み出しながらAS-289R2 Thermal Printer Shieldにuart送信  
 
 # 今後
 FlashAirにLuaスクリプト設置してゴニョゴニュしてみます。
