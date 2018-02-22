@@ -6,6 +6,7 @@ IbushiginCamera for GR-LYCHEE - OpenCV
 [GR-LYCHEE - Mbed](https://os.mbed.com/platforms/Renesas-GR-LYCHEE/)  
 [GR-LYCHEE - GADGET RENESAS](https://os.mbed.com/platforms/Renesas-GR-LYCHEE/)  
 [GR-LYCHEE - CORE](http://www.core.co.jp/product/m2m/gr-lychee/)  
+[AS-289R2 Thermal Printer Shield - Mbed](https://os.mbed.com/components/AS-289R2-Thermal-Printer-Shield/)  
 [AS-289R2 Thermal Printer Shield - NADA ELECTRONICS](http://www.nada.co.jp/as289r2/)  
 [FlashAir W-04 - TOSHIBA](https://flashair-developers.com/ja/discover/overview/w04/)  
 
