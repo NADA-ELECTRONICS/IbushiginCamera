@@ -9,7 +9,7 @@ IbushiginCamera for GR-LYCHEE - OpenCV
 [AS-289R2 Thermal Printer Shield - NADA ELECTRONICS](http://www.nada.co.jp/as289r2/)  
 [FlashAir W-04 - TOSHIBA](https://flashair-developers.com/ja/discover/overview/w04/)  
 
-![IbushiginCamera](https://github.com/NADA-ELECTRONICS/IbushiginCamera/blob/master/photo.jpg)
+![IbushiginCamera](https://github.com/NADA-ELECTRONICS/IbushiginCamera/blob/master/photo1.jpg)
 
 # Mbed CLI & GR-LYCHEE OpenCV Sample
 [GR-Boards_OpenCV_sample](https://github.com/d-kato/GR-Boards_OpenCV_sample)  
