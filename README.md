@@ -2,7 +2,7 @@
 IbushiginCamera for GR-LYCHEE - OpenCV
 
 # いぶし銀カメラ
-2018/02/24 [FlashAir Developers Summit 2018](https://flashair-developers.com/ja/about/events/summit2018/) 場所:LODGE - Yahoo Japan  
+2018/02/24 [FlashAir Developers Summit 2018](https://flashair-developers.com/ja/about/events/summit2018/) 場所:LODGE - Yahoo Japan    
 [GR-LYCHEE - Mbed](https://os.mbed.com/platforms/Renesas-GR-LYCHEE/)  
 [GR-LYCHEE - GADGET RENESAS](https://os.mbed.com/platforms/Renesas-GR-LYCHEE/)  
 [GR-LYCHEE - CORE](http://www.core.co.jp/product/m2m/gr-lychee/)  
